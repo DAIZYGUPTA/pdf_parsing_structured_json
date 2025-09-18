@@ -1,0 +1,3 @@
+pdfplumber
+PyMuPDF
+camelot-py[cv]
