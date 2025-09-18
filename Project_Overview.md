@@ -48,6 +48,7 @@ Text Extraction   Table Extraction        Image/Chart Detection
         │   Output JSON File │
         └────────────────────┘
 
+
 3. Workflow Description
 Step 1: Input
 
