@@ -1,0 +1,242 @@
+{
+    "pages": [
+        {
+            "page_number": 1,
+            "sections": [
+                {
+                    "section": "DEFAULT",
+                    "sub_sections": [
+                        {
+                            "sub_section": "+91-8888888888 | guptadaizy2495@gmail.com | github | linkedin.com/in/daizy-gupta-6519b388",
+                            "content": []
+                        }
+                    ],
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "text": "Daizy Gupta"
+                        }
+                    ]
+                },
+                {
+                    "section": "PROFILE",
+                    "sub_sections": [],
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "text": "Results-driven engineer with 2 years of VLSI experience, now transitioning into data analytics with hands-on expertise in Power BI, SQL, and Python. Skilled in building dashboards, cleaning large datasets, and delivering actionable insights. Completed certifications and multiple real-world projects during a structured career transition. Strong foundation in analytical thinking, problem-solving, and data storytelling."
+                        }
+                    ]
+                },
+                {
+                    "section": "SKILLS",
+                    "sub_sections": [
+                        {
+                            "sub_section": "● Programming: Python (pandas, NumPy, scikit-learn), SQL",
+                            "content": []
+                        },
+                        {
+                            "sub_section": "● Analytics & Visualization: Power BI, Matplotlib, Seaborn, Plotly",
+                            "content": []
+                        },
+                        {
+                            "sub_section": "● Data Handling: Data cleaning, preprocessing, feature engineering",
+                            "content": []
+                        },
+                        {
+                            "sub_section": "● EDA & Statistics: Hypothesis testing, correlation, trend analysis",
+                            "content": []
+                        },
+                        {
+                            "sub_section": "● Tools: GitHub, Excel/Google Sheets, ModelSim, Quartus (engineering)",
+                            "content": []
+                        },
+                        {
+                            "sub_section": "● Soft Skills: Storytelling with data, problem-solving, cross-team collaboration",
+                            "content": []
+                        },
+                        {
+                            "sub_section": "● Machine Learning: Regression, classification, clustering, forecasting",
+                            "content": []
+                        }
+                    ],
+                    "content": []
+                },
+                {
+                    "section": "PROJECTS",
+                    "sub_sections": [
+                        {
+                            "sub_section": "● Key insight: delays & staff behavior → top complaints; commendations for helpful staff.",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "Madhav E-commerce Sales Dashboard"
+                                },
+                                {
+                                    "type": "bullet_point",
+                                    "text": "Analyzed Indian e-commerce data (₹438K revenue, ₹37K profit)."
+                                },
+                                {
+                                    "type": "bullet_point",
+                                    "text": "Built drill-down dashboards showing seasonal profit peaks, category insights, and top customer"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "segments. Instagram User Analytics (SQL)"
+                                },
+                                {
+                                    "type": "bullet_point",
+                                    "text": "Queried user engagement data to identify retention & growth patterns."
+                                },
+                                {
+                                    "type": "bullet_point",
+                                    "text": "Delivered insights to improve user engagement strategies."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "IMDB Movie Analysis (Python, Pandas)"
+                                },
+                                {
+                                    "type": "bullet_point",
+                                    "text": "Analyzed ratings, genres, and revenue trends."
+                                },
+                                {
+                                    "type": "bullet_point",
+                                    "text": "Extracted success factors impacting box office performance."
+                                }
+                            ]
+                        }
+                    ],
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "text": "Power BI Sales Dashboard & Forecasting"
+                        },
+                        {
+                            "type": "bullet_point",
+                            "text": "Designed an interactive dashboard analyzing sales, profit, and customer segments."
+                        },
+                        {
+                            "type": "bullet_point",
+                            "text": "Applied time series forecasting to predict 15-day future sales."
+                        },
+                        {
+                            "type": "bullet_point",
+                            "text": "Delivered insights on product categories, shipping delays, and payment trends."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "Customer Analytics Dashboard (MTA dataset, 183k+ records)"
+                        },
+                        {
+                            "type": "bullet_point",
+                            "text": "Processed & cleaned customer feedback data with Python (Pandas)."
+                        },
+                        {
+                            "type": "bullet_point",
+                            "text": "Built a Power BI dashboard (KPIs, issue trends, branch performance)."
+                        }
+                    ]
+                }
+            ],
+            "charts": []
+        },
+        {
+            "page_number": 2,
+            "sections": [
+                {
+                    "section": "PROFESSIONAL EXPERIENCE",
+                    "sub_sections": [
+                        {
+                            "sub_section": "Senior Software Engineer | HCL Technologies (2021–2023)",
+                            "content": [
+                                {
+                                    "type": "bullet_point",
+                                    "text": "Managed transition of RDLDK tool setup from Milan (Italy) to India."
+                                },
+                                {
+                                    "type": "bullet_point",
+                                    "text": "Executed debugging, file updates, and tool enhancements for RTL projects."
+                                },
+                                {
+                                    "type": "bullet_point",
+                                    "text": "Strengthened problem-solving and cross-functional collaboration skills."
+                                }
+                            ]
+                        },
+                        {
+                            "sub_section": "Layout Support Engineer | STMicroelectronics (2020–2021)",
+                            "content": [
+                                {
+                                    "type": "bullet_point",
+                                    "text": "Conducted physical verification checks (DRC, LVS, ADOC, LIBBE)."
+                                },
+                                {
+                                    "type": "bullet_point",
+                                    "text": "Automated layout workflows with SKILL scripts, reducing manual effort."
+                                },
+                                {
+                                    "type": "bullet_point",
+                                    "text": "Gained experience handling large datasets and process automation."
+                                }
+                            ]
+                        },
+                        {
+                            "sub_section": "Intern | Secure Meters Limited (2016–2017)",
+                            "content": [
+                                {
+                                    "type": "bullet_point",
+                                    "text": "Worked on PCB manufacturing processes (SMT & PTH)."
+                                },
+                                {
+                                    "type": "bullet_point",
+                                    "text": "Applied QC techniques to ensure quality and efficiency."
+                                }
+                            ]
+                        }
+                    ],
+                    "content": []
+                },
+                {
+                    "section": "EDUCATION",
+                    "sub_sections": [
+                        {
+                            "sub_section": "M.Tech. – VLSI Design | Punjab Engineering College, Chandigarh (2019–2021) CGPA: 9.06",
+                            "content": []
+                        },
+                        {
+                            "sub_section": "B.E. – Electronics & Communication | Chitkara University, Punjab (2013–2017) CGPA: 8.01",
+                            "content": []
+                        }
+                    ],
+                    "content": []
+                },
+                {
+                    "section": "CERTIFICATIONS",
+                    "sub_sections": [],
+                    "content": [
+                        {
+                            "type": "bullet_point",
+                            "text": "Data Science with Generative AI – PW Skills (2024–2025)"
+                        },
+                        {
+                            "type": "bullet_point",
+                            "text": "Virtual Internship in Data Analytics – Trainity (2023–2024)"
+                        }
+                    ]
+                },
+                {
+                    "section": "CAREER TRANSITION",
+                    "sub_sections": [],
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "text": "After 2 years in VLSI, I discovered a passion for data analytics. Leveraging my engineering background and certifications in Data Science & Analytics, I’ve built multiple dashboards and predictive models. Now, I’m eager to apply these skills to deliver insights in B2B, SaaS, and community-driven businesses."
+                        }
+                    ]
+                }
+            ],
+            "charts": []
+        }
+    ]
+}
